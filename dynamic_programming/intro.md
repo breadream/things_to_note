@@ -36,7 +36,3 @@ Combine 3 things
 1. function/data structure that compute/contain the answer for every given state
 2. recurrence relation to transition between states
 3. base case for the recurrence relation not to go on infinitely
-
-
-Problems 
-- House Robber (Top-down and Bottom-up)
